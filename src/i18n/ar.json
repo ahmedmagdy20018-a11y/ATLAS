@@ -1,0 +1,63 @@
+{
+  "common": {
+    "dashboard": "لوحة التحكم",
+    "speedTest": "اختبار السرعة",
+    "faultMonitor": "مراقب الأعطال",
+    "history": "تاريخ الأداء",
+    "aiInsights": "رؤى الذكاء الاصطناعي",
+    "reports": "التقارير والتنزيلات",
+    "diagnostics": "أدوات التشخيص",
+    "settings": "الإعدادات",
+    "excellent": "ممتاز",
+    "good": "جيد",
+    "fair": "مقبول",
+    "poor": "ضعيف",
+    "critical": "حرج",
+    "active": "نشط",
+    "resolved": "تم الحل",
+    "download": "تحميل",
+    "upload": "رفع",
+    "latency": "زمن الاستجابة",
+    "jitter": "تقطع الإشارة",
+    "packetLoss": "فقدان الحزم",
+    "reliability": "الموثوقية",
+    "healthScore": "صحة الشبكة",
+    "isp": "مزود الخدمة",
+    "ipAddress": "عنوان IP"
+  },
+  "dashboard": {
+    "networkHealth": "صحة الشبكة",
+    "summary": "كل شيء يبدو جيداً اليوم.",
+    "recentFaults": "الأعطال الأخيرة",
+    "performance24h": "الأداء خلال 24 ساعة",
+    "runTest": "ابدأ التحليل"
+  },
+  "speedTest": {
+    "start": "ابدأ اختبار السرعة",
+    "testing": "جاري الاختبار...",
+    "results": "نتائج الاختبار",
+    "downloadSpeed": "سرعة التحميل",
+    "uploadSpeed": "سرعة الرفع"
+  },
+  "settings": {
+    "language": "اللغة",
+    "theme": "المظهر",
+    "autoTest": "اختبار تلقائي",
+    "slaThreshold": "حد الخدمة (Mbps)",
+    "notifications": "التنبيهات",
+    "save": "حفظ الإعدادات",
+    "dark": "داكن",
+    "light": "فاتح"
+  },
+  "faults": {
+    "title": "مراقب الأعطال",
+    "noFaults": "لا توجد أعطال نشطة حالياً.",
+    "severity": "الخطورة",
+    "action": "الإجراء الموصى به"
+  },
+  "ai": {
+    "title": "رؤى الذكاء الاصطناعي",
+    "prediction": "توقعات الأداء",
+    "baseline": "الخط المرجعي للتعلم"
+  }
+}

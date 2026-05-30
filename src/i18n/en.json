@@ -1,0 +1,63 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "speedTest": "Speed Test",
+    "faultMonitor": "Fault Monitor",
+    "history": "Performance History",
+    "aiInsights": "AI Insights",
+    "reports": "Reports & Downloads",
+    "diagnostics": "Diagnostics",
+    "settings": "Settings",
+    "excellent": "Excellent",
+    "good": "Good",
+    "fair": "Fair",
+    "poor": "Poor",
+    "critical": "Critical",
+    "active": "Active",
+    "resolved": "Resolved",
+    "download": "Download",
+    "upload": "Upload",
+    "latency": "Latency",
+    "jitter": "Jitter",
+    "packetLoss": "Packet Loss",
+    "reliability": "Reliability",
+    "healthScore": "Health Score",
+    "isp": "ISP",
+    "ipAddress": "IP Address"
+  },
+  "dashboard": {
+    "networkHealth": "Network Health",
+    "summary": "Everything looks good today.",
+    "recentFaults": "Recent Faults",
+    "performance24h": "24-Hour Performance",
+    "runTest": "Start analysis"
+  },
+  "speedTest": {
+    "start": "START SPEED TEST",
+    "testing": "TESTING...",
+    "results": "Test Results",
+    "downloadSpeed": "Download Speed",
+    "uploadSpeed": "Upload Speed"
+  },
+  "settings": {
+    "language": "Language",
+    "theme": "Theme",
+    "autoTest": "Auto Test",
+    "slaThreshold": "SLA Threshold (Mbps)",
+    "notifications": "Notifications",
+    "save": "Save Settings",
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "faults": {
+    "title": "Fault Monitor",
+    "noFaults": "No active faults detected.",
+    "severity": "Severity",
+    "action": "Recommended Action"
+  },
+  "ai": {
+    "title": "AI Insights",
+    "prediction": "Performance Prediction",
+    "baseline": "Learning Baseline"
+  }
+}

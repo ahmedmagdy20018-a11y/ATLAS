@@ -1,0 +1,13 @@
+{
+  "name": "Remix: اطلس",
+  "description": "Intelligent telecom network analysis, speed testing, and early fault detection system with AI-powered insights and professional reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "network_analysis",
+    "speed_test",
+    "ai_diagnostics",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
